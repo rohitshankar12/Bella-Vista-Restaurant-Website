@@ -8,7 +8,7 @@ It showcases a modern UI design for an Indian vegetarian restaurant with menu, a
 
 ## 🔗 Live Demo
 👉 *(Add your deployed link here – GitHub Pages / Netlify)*  
-Example: https://your-username.github.io/Bella-Vista/
+https://rohitshankar12.github.io/Bella-Vista-Restaurant-Website
 
 ---
 
